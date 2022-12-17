@@ -1,4 +1,5 @@
 #!/usr/bin/python3
+# This script is used for training the Polyp-PVT network. Given that the network was trained with patches of a specific size, it must be ran against patches with the same size, which is what this script is doing. The script takes images in the dataset directory, segments them into distinct patches, then runs the model against them; After the results are obtained, the patch-wise predictions are then reassembled into one image.
 
 
 import os
