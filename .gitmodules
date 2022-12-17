@@ -1,0 +1,3 @@
+[submodule "training_and_testing/Polyp-PVT"]
+	path = training_and_testing/Polyp-PVT
+	url = https://github.com/DengPingFan/Polyp-PVT.git
