@@ -1,0 +1,5 @@
+This UNet model is a modified version fo the one available at: https://github.com/orobix/retina-unet/
+The original code is copyright of: Daniele Cortinovis, Orobix Srl (www.orobix.com). And it has been published under the MIT license.
+
+
+Copyright (c) 2016 Daniele Cortinovis, Orobix Srl (www.orobix.com).
