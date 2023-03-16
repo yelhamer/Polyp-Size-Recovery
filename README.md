@@ -25,7 +25,7 @@ You can download a copy of all the files in this repository by cloning the git r
 git clone https://github.com/yelhamer/Polyp-Size-Recovery
 ```
 
-The files can then be moved onto the target environment, be it your local machine, or a GPU-powered cloud instance.
+The files can then be moved onto the target environment, be it your local machine or a GPU-powered cloud instance.
 
 ### Preparring the environment
 
@@ -38,3 +38,15 @@ You can do so using the provided requirements file, by using the following comma
 ```
 pip install -r requirements.txt
 ```
+
+### Information regarding the models
+
+Please keep in mind that the trained SUN models have been omitted from this code, and you will have to train the model yourself.
+
+Keep in mind also that we were unable to train the used models on the standard Google Collab GPU, since they required more VRAM than provided.
+
+## License
+
+All source code is made available under a BSD 3-clause license. You can freely use and modify the code, without warranty, so long as you provide attribution to the authors.
+
+The manuscript text is not open source. The authors reserve the rights to the article content, which has been published in the proceedings of the ICPRAM 2023 conference.
