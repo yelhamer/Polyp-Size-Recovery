@@ -39,7 +39,7 @@ You can do so using the provided requirements file, by using the following comma
 pip install -r requirements.txt
 ```
 
-### Information regarding the models
+### Information regarding using the models
 
 Please keep in mind that the trained SUN models have been omitted from this code, and you will have to train the model yourself.
 
