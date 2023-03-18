@@ -1,8 +1,8 @@
 # PVT based Blood Vessel Segmentation and Polyp Size Estimation in Colonoscopy Images
 
-Authors: Insaf Setitra, Yuji Iwahori, Yacine Elhamer, Anais Mezrag, Shinji Fukui, Kunio Kasugai
+_Authors: Insaf Setitra, Yuji Iwahori, Yacine Elhamer, Anais Mezrag, Shinji Fukui, Kunio Kasugai_
 
-Digital Object Identifier: 10.5220/0011666700003411
+Digital Object Identifier: _10.5220/0011666700003411_
 
 This is the code for the aforementioned paper presented at the 12th ICPRAM on the 24th of February 2023.
 The code is structured into 4 folders:
