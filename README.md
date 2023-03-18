@@ -5,11 +5,12 @@ Authors: Insaf Setitra, Yuji Iwahori, Yacine Elhamer, Anais Mezrag, Shinji Fukui
 Digital Object Identifier: 10.5220/0011666700003411
 
 This is the code for the aforementioned paper presented at the 12th ICPRAM on the 24th of February 2023.
-The code is structured into 4 folders:\
-    - Data augmentation: includes the code used to implement the data augmentation that has been performed on the SUN dataset. \
-    - Training and testing: includes the code for the UNet and PPVT models. \
-    - Information extraction: includes the information extration algorithm. \
-    - Post processing: includes the code used for processing of the Neural Networks' output.
+The code is structured into 4 folders:
+
+- Data augmentation: includes the code used to implement the data augmentation that has been performed on the SUN dataset.
+- Training and testing: includes the code for the UNet and PPVT models.
+- Information extraction: includes the information extration algorithm.
+- Post processing: includes the code used for processing of the Neural Networks' output.
 The training and testing folder includes the jupyter notebooks used to train the model.
 
 ## Abstract
