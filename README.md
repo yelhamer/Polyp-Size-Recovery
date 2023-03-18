@@ -4,13 +4,13 @@ Authors: Insaf Setitra, Yuji Iwahori, Yacine Elhamer, Anais Mezrag, Shinji Fukui
 
 Digital Object Identifier: 10.5220/0011666700003411
 
-> This is the code for the aforementioned paper presented at the 12th ICPRAM on the 24th of February 2023.
-> The code is structured into 4 folders:\
->     - Data augmentation: includes the code used to implement the data augmentation that has been performed on the SUN dataset. \
->     - Training and testing: includes the code for the UNet and PPVT models. \
->     - Information extraction: includes the information extration algorithm. \
->     - Post processing: includes the code used for processing of the Neural Networks' output.
-> The training and testing folder includes the jupyter notebooks used to train the model.
+This is the code for the aforementioned paper presented at the 12th ICPRAM on the 24th of February 2023.
+The code is structured into 4 folders:\
+    - Data augmentation: includes the code used to implement the data augmentation that has been performed on the SUN dataset. \
+    - Training and testing: includes the code for the UNet and PPVT models. \
+    - Information extraction: includes the information extration algorithm. \
+    - Post processing: includes the code used for processing of the Neural Networks' output.
+The training and testing folder includes the jupyter notebooks used to train the model.
 
 ## Abstract
 > The size of colorectal polyps is one of the factors conditioning the risk of synchronous and metachronous colorectal cancer (CRC). In this work, we are interested in the automatic measurement of polyp sizes in colonoscopy videos. The study is performed in two steps: (1) first the detection and segmentation of the polyp by the neural network Polyp-PVT and then (2) the classification of the polyp into different classes (type of disease, size of the polyp). This is done by extracting information from blood vessels, a parameter that has a low variability and is present in the majority of colonoscopic videos. This method has been validated by two local Hepato-Gastro-Enterology specialists. Once the size of the polyp is extracted, a classification of polyps as susceptible malignant (polyp size ≥ 6 mm) and susceptible benign (polyp size < 6 mm) is performed. Our approach reaches an accuracy of 85.61% for the first category and 73.92% for the second one and is comparable to human classification which is estimated to 52% for beginners and 71% for experts endoscopists.
