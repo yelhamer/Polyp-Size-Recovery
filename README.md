@@ -5,7 +5,7 @@ Authors: Insaf Setitra, Yuji Iwahori, Yacine Elhamer, Anais Mezrag, Shinji Fukui
 Digital Object Identifier: 10.5220/0011666700003411
 
 > This is the code for the aforementioned paper presented at the 12th ICPRAM on the 24th of February 2023.
-> The code is structured into 4 categories:
+> The code is structured into 4 categories:\
 >     (a) Data augmentation: includes the code used to implement the data augmentation that has been performed on the SUN dataset. \
 >     (b) Training and testing: includes the code for the UNet and PPVT models. \
 >     (c) Information extraction: includes the information extration algorithm. \
