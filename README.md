@@ -4,6 +4,8 @@ _Authors: Insaf Setitra, Yuji Iwahori, Yacine Elhamer, Anais Mezrag, Shinji Fuku
 
 Digital Object Identifier (DOI): [_10.5220/0011666700003411_](https://www.scitepress.org/Link.aspx?doi=10.5220/0011666700003411)
 
+Link for Paper Access: https://www.scitepress.org/Papers/2023/116667/116667.pdf
+
 This is the code for the aforementioned paper presented at the 12th ICPRAM on the 24th of February 2023.
 The code is structured into 4 folders:
 
